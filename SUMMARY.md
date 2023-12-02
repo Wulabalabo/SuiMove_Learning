@@ -4,7 +4,7 @@
 
 ## Sui move cli 101
 
-* [CLI to Sui wallet](<README (1).md>)
+* [CLI to Sui wallet](sui-move-cli-101/cli-to-sui-wallet.md)
 * [Manipulate Sui Coin](sui-move-cli-101/manipulate-sui-coin.md)
 * [Smart Contract](sui-move-cli-101/smart-contract.md)
 
