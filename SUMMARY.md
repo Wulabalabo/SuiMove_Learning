@@ -3,7 +3,7 @@
 ## Sui move cli 101
 
 * [CLI to Sui wallet](README.md)
-* [Mapulate Sui Coin](sui-move-cli-101/mapulate-sui-coin.md)
+* [Manipulate Sui Coin](sui-move-cli-101/manipulate-sui-coin.md)
 * [Smart Contract](sui-move-cli-101/smart-contract.md)
 
 ## Sui Move TDD
