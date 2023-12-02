@@ -1,8 +1,10 @@
 # Table of contents
 
+* [README](README.md)
+
 ## Sui move cli 101
 
-* [CLI to Sui wallet](README.md)
+* [CLI to Sui wallet](<README (1).md>)
 * [Manipulate Sui Coin](sui-move-cli-101/manipulate-sui-coin.md)
 * [Smart Contract](sui-move-cli-101/smart-contract.md)
 
